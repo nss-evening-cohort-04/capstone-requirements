@@ -17,4 +17,5 @@ You should be intrinsically motivated to complete this project.  Its ok if the i
 - Each week you will be giving your manager a synopsis of what you are going to accomplish in that week.  Like a sprint.  Mk?
 - Its a good idea to showcase a SPA.  It will allow you to show off both your front-end and backend skills.
 - The front end framework you use can be something that is not AngularJS
+- Don't do a game.  Its probably not going to get approved by your manager.
  
